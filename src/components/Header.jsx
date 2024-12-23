@@ -1,4 +1,4 @@
-import logoImg from '../assets/quiz-logo.jpeg'
+import logoImg from '../assets/quiz-logo.png'
 function Header() {
   return (
     <header>
